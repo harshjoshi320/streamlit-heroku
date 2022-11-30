@@ -14,4 +14,4 @@ divisor = st.number_input("Divisor")
 
 quotient = divident/divisor if divisor != 0 else "Error" 
 
-st.write("Quotient:"+quotient)
+st.write("# Quotient: "+str(quotient))
